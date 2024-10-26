@@ -3,5 +3,4 @@
 Practise Of FreeCode Camp Website Project
 
 # Build Cat Photo App
-<img src="![Uploading Cat Photo Website.png…]()
-">
+![Uploading Cat Photo Website.png…]()
