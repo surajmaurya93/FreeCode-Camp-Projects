@@ -22,3 +22,6 @@ Practise Of FreeCode Camp Website Project
 
 ![Rothko Painting CSS Box-Model](https://github.com/user-attachments/assets/6999bc6b-2cca-4cca-b3c7-845b754144e4)
 
+# 6. CSS Flexbox to build a responsive photo gallery 
+
+![Build Responsive Gallery Webpage Using CSS Flexbox](https://github.com/user-attachments/assets/19477477-59db-496c-bf94-d6cc1391efac)
