@@ -25,3 +25,7 @@ Practise Of FreeCode Camp Website Project
 # 6. CSS Flexbox to build a responsive photo gallery 
 
 ![Build Responsive Gallery Webpage Using CSS Flexbox](https://github.com/user-attachments/assets/19477477-59db-496c-bf94-d6cc1391efac)
+
+# 7. Build A Quiz Webpage
+
+![Quiz Webpage](https://github.com/user-attachments/assets/8bd1c6e0-a650-4799-b984-9189ca976fd6)
