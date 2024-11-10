@@ -33,3 +33,8 @@ Practise Of FreeCode Camp Website Project
 # 8. Build A Balance Sheet
 
 ![Build A Balance Sheet](https://github.com/user-attachments/assets/17c9348d-29ab-462c-8473-5c672c629db3)
+
+# 9. Building A Piano 
+
+![Build A Piano](https://github.com/user-attachments/assets/7e42d01e-e28d-4c7c-bcc5-b05913b34e18)
+
