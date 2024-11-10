@@ -29,3 +29,7 @@ Practise Of FreeCode Camp Website Project
 # 7. Build A Quiz Webpage
 
 ![Quiz Webpage](https://github.com/user-attachments/assets/8bd1c6e0-a650-4799-b984-9189ca976fd6)
+
+# 8. Build A Balance Sheet
+
+![Build A Balance Sheet](https://github.com/user-attachments/assets/17c9348d-29ab-462c-8473-5c672c629db3)
