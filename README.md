@@ -38,3 +38,6 @@ Practise Of FreeCode Camp Website Project
 
 ![Build A Piano](https://github.com/user-attachments/assets/7e42d01e-e28d-4c7c-bcc5-b05913b34e18)
 
+# 10. Building A Cat Painting
+
+![Building A Cat Painting](https://github.com/user-attachments/assets/d5845ac5-96d5-40d9-bbfd-bd67efcf5f1b)
